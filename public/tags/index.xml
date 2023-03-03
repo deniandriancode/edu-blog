@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Haql</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Haql</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Mar 2023 15:58:46 +0700</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arab</title>
+      <link>http://example.org/tags/arab/</link>
+      <pubDate>Fri, 03 Mar 2023 15:58:46 +0700</pubDate>
+      
+      <guid>http://example.org/tags/arab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>islam</title>
+      <link>http://example.org/tags/islam/</link>
+      <pubDate>Fri, 03 Mar 2023 15:58:46 +0700</pubDate>
+      
+      <guid>http://example.org/tags/islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>muslim</title>
+      <link>http://example.org/tags/muslim/</link>
+      <pubDate>Fri, 03 Mar 2023 15:58:46 +0700</pubDate>
+      
+      <guid>http://example.org/tags/muslim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nothing</title>
+      <link>http://example.org/tags/nothing/</link>
+      <pubDate>Fri, 03 Mar 2023 14:03:27 +0700</pubDate>
+      
+      <guid>http://example.org/tags/nothing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emacs</title>
+      <link>http://example.org/tags/emacs/</link>
+      <pubDate>Fri, 03 Mar 2023 14:01:06 +0700</pubDate>
+      
+      <guid>http://example.org/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>http://example.org/tags/vim/</link>
+      <pubDate>Fri, 03 Mar 2023 14:01:06 +0700</pubDate>
+      
+      <guid>http://example.org/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editor</title>
+      <link>http://example.org/tags/editor/</link>
+      <pubDate>Fri, 03 Mar 2023 14:00:53 +0700</pubDate>
+      
+      <guid>http://example.org/tags/editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>http://example.org/tags/linux/</link>
+      <pubDate>Fri, 03 Mar 2023 14:00:53 +0700</pubDate>
+      
+      <guid>http://example.org/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://example.org/tags/programming/</link>
+      <pubDate>Fri, 03 Mar 2023 14:00:53 +0700</pubDate>
+      
+      <guid>http://example.org/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>http://example.org/tags/blog/</link>
+      <pubDate>Fri, 03 Mar 2023 12:48:20 +0700</pubDate>
+      
+      <guid>http://example.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>http://example.org/tags/tech/</link>
+      <pubDate>Fri, 03 Mar 2023 12:48:20 +0700</pubDate>
+      
+      <guid>http://example.org/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>http://example.org/tags/web/</link>
+      <pubDate>Fri, 03 Mar 2023 12:48:20 +0700</pubDate>
+      
+      <guid>http://example.org/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

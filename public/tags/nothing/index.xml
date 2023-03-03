@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nothing on Haql</title>
+    <link>http://example.org/tags/nothing/</link>
+    <description>Recent content in nothing on Haql</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Mar 2023 14:03:27 +0700</lastBuildDate><atom:link href="http://example.org/tags/nothing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodraft</title>
+      <link>http://example.org/2023/03/nodraft/</link>
+      <pubDate>Fri, 03 Mar 2023 14:03:27 +0700</pubDate>
+      
+      <guid>http://example.org/2023/03/nodraft/</guid>
+      <description>No Draft Nothing</description>
+    </item>
+    
+  </channel>
+</rss>
