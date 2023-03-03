@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/series/akhlaq-dan-nasehat/</loc>
+    <loc>/series/akhlaq-dan-nasehat/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/arab/</loc>
+    <loc>/tags/arab/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/islam/</loc>
+    <loc>/tags/islam/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/muslim/</loc>
+    <loc>/tags/muslim/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/2023/03/muslim-harus-bergembira-menyambut-ramadhan/</loc>
+    <loc>/2023/03/muslim-harus-bergembira-menyambut-ramadhan/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-03-03T15:58:46+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/2023/03/nodraft/</loc>
+    <loc>/2023/03/nodraft/</loc>
     <lastmod>2023-03-03T14:03:27+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/nothing/</loc>
+    <loc>/tags/nothing/</loc>
     <lastmod>2023-03-03T14:03:27+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/emacs/</loc>
+    <loc>/tags/emacs/</loc>
     <lastmod>2023-03-03T14:01:06+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/vim/</loc>
+    <loc>/tags/vim/</loc>
     <lastmod>2023-03-03T14:01:06+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/2023/03/vim-editor/</loc>
+    <loc>/2023/03/vim-editor/</loc>
     <lastmod>2023-03-03T14:01:06+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/editor/</loc>
+    <loc>/tags/editor/</loc>
     <lastmod>2023-03-03T14:00:53+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/2023/03/hugo-framework/</loc>
+    <loc>/2023/03/hugo-framework/</loc>
     <lastmod>2023-03-03T14:00:53+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/linux/</loc>
+    <loc>/tags/linux/</loc>
     <lastmod>2023-03-03T14:00:53+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2023-03-03T14:00:53+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2023-03-03T12:48:20+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/2023/03/intro/</loc>
+    <loc>/2023/03/intro/</loc>
     <lastmod>2023-03-03T12:48:20+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/series/introduction/</loc>
+    <loc>/series/introduction/</loc>
     <lastmod>2023-03-03T12:48:20+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/tech/</loc>
+    <loc>/tags/tech/</loc>
     <lastmod>2023-03-03T12:48:20+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/web/</loc>
+    <loc>/tags/web/</loc>
     <lastmod>2023-03-03T12:48:20+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>/search/</loc>
   </url>
 </urlset>

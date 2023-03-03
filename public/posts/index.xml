@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Haql</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Haql</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 15:58:46 +0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 15:58:46 +0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Muslim Harus Bergembira Menyambut Ramadhan</title>
-      <link>http://example.org/2023/03/muslim-harus-bergembira-menyambut-ramadhan/</link>
+      <link>/2023/03/muslim-harus-bergembira-menyambut-ramadhan/</link>
       <pubDate>Fri, 03 Mar 2023 15:58:46 +0700</pubDate>
       
-      <guid>http://example.org/2023/03/muslim-harus-bergembira-menyambut-ramadhan/</guid>
+      <guid>/2023/03/muslim-harus-bergembira-menyambut-ramadhan/</guid>
       <description>Postingan ini hanya demonstrasi, silahkan kunjungi artikel asli di situs www.muslim.or.id
 Bergembira Menyambut Ramadhan, Salah Satu Wujud Keimanan Salah satu tanda keimanan adalah seorang muslim bergembira menyambut Ramadhan. Ibarat akan menyambut tamu agung yang ia nanti-nantikan, maka ia persiapkan segalanya dan tentu hati menjadi sangat senang tamu Ramadhan akan datang. Tentu lebih senang lagi jika ia menjumpai Ramadhan.
 Hendaknya seorang muslim khawatir akan dirinya jika tidak ada perasaan gembira akan datangnya Ramadhan.</description>
@@ -20,19 +20,19 @@ Hendaknya seorang muslim khawatir akan dirinya jika tidak ada perasaan gembira a
     
     <item>
       <title>Nodraft</title>
-      <link>http://example.org/2023/03/nodraft/</link>
+      <link>/2023/03/nodraft/</link>
       <pubDate>Fri, 03 Mar 2023 14:03:27 +0700</pubDate>
       
-      <guid>http://example.org/2023/03/nodraft/</guid>
+      <guid>/2023/03/nodraft/</guid>
       <description>No Draft Nothing</description>
     </item>
     
     <item>
       <title>Vim Editor</title>
-      <link>http://example.org/2023/03/vim-editor/</link>
+      <link>/2023/03/vim-editor/</link>
       <pubDate>Fri, 03 Mar 2023 14:01:06 +0700</pubDate>
       
-      <guid>http://example.org/2023/03/vim-editor/</guid>
+      <guid>/2023/03/vim-editor/</guid>
       <description>What is Vim Morbi non arcu risus, quis varius quam quisque id. At consectetur lorem donec massa sapien, faucibus et molestie ac, feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt.
 Ut faucibus pulvinar elementum integer enim neque, volutpat ac tincidunt vitae, semper quis lectus nulla at volutpat diam ut venenatis tellus in metus vulputate! Habitant morbi tristique senectus et netus.
 Modal Text Editing Elit, at imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis urna, id volutpat lacus laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean et tortor at risus?</description>
@@ -40,20 +40,20 @@ Modal Text Editing Elit, at imperdiet dui accumsan sit amet nulla facilisi morbi
     
     <item>
       <title>Hugo Framework</title>
-      <link>http://example.org/2023/03/hugo-framework/</link>
+      <link>/2023/03/hugo-framework/</link>
       <pubDate>Fri, 03 Mar 2023 14:00:53 +0700</pubDate>
       
-      <guid>http://example.org/2023/03/hugo-framework/</guid>
+      <guid>/2023/03/hugo-framework/</guid>
       <description>Hugo Framework Nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea dictumst quisque sagittis, purus sit amet volutpat consequat, mauris. Nunc sed velit dignissim sodales. Ac auctor augue mauris augue neque, gravida in fermentum et, sollicitudin? Arcu vitae elementum curabitur vitae nunc sed velit dignissim sodales ut eu sem integer vitae justo eget magna fermentum.
 Integer feugiat scelerisque varius morbi enim nunc, faucibus a pellentesque sit amet, porttitor eget dolor morbi non arcu risus, quis varius quam quisque id diam vel quam.</description>
     </item>
     
     <item>
       <title>Intro</title>
-      <link>http://example.org/2023/03/intro/</link>
+      <link>/2023/03/intro/</link>
       <pubDate>Fri, 03 Mar 2023 12:48:20 +0700</pubDate>
       
-      <guid>http://example.org/2023/03/intro/</guid>
+      <guid>/2023/03/intro/</guid>
       <description>Some quick summary text to describe the post</description>
     </item>
     

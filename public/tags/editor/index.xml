@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>editor on Haql</title>
-    <link>http://example.org/tags/editor/</link>
+    <link>/tags/editor/</link>
     <description>Recent content in editor on Haql</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 14:00:53 +0700</lastBuildDate><atom:link href="http://example.org/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 14:00:53 +0700</lastBuildDate><atom:link href="/tags/editor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Framework</title>
-      <link>http://example.org/2023/03/hugo-framework/</link>
+      <link>/2023/03/hugo-framework/</link>
       <pubDate>Fri, 03 Mar 2023 14:00:53 +0700</pubDate>
       
-      <guid>http://example.org/2023/03/hugo-framework/</guid>
+      <guid>/2023/03/hugo-framework/</guid>
       <description>Hugo Framework Nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea dictumst quisque sagittis, purus sit amet volutpat consequat, mauris. Nunc sed velit dignissim sodales. Ac auctor augue mauris augue neque, gravida in fermentum et, sollicitudin? Arcu vitae elementum curabitur vitae nunc sed velit dignissim sodales ut eu sem integer vitae justo eget magna fermentum.
 Integer feugiat scelerisque varius morbi enim nunc, faucibus a pellentesque sit amet, porttitor eget dolor morbi non arcu risus, quis varius quam quisque id diam vel quam.</description>
     </item>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Haql</title>
-    <link>http://example.org/series/</link>
+    <link>/series/</link>
     <description>Recent content in Series on Haql</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 15:58:46 +0700</lastBuildDate><atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 15:58:46 +0700</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akhlaq dan Nasehat</title>
-      <link>http://example.org/series/akhlaq-dan-nasehat/</link>
+      <link>/series/akhlaq-dan-nasehat/</link>
       <pubDate>Fri, 03 Mar 2023 15:58:46 +0700</pubDate>
       
-      <guid>http://example.org/series/akhlaq-dan-nasehat/</guid>
+      <guid>/series/akhlaq-dan-nasehat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://example.org/series/introduction/</link>
+      <link>/series/introduction/</link>
       <pubDate>Fri, 03 Mar 2023 12:48:20 +0700</pubDate>
       
-      <guid>http://example.org/series/introduction/</guid>
+      <guid>/series/introduction/</guid>
       <description></description>
     </item>
     

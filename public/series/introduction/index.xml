@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Introduction on Haql</title>
-    <link>http://example.org/series/introduction/</link>
+    <link>/series/introduction/</link>
     <description>Recent content in Introduction on Haql</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 12:48:20 +0700</lastBuildDate><atom:link href="http://example.org/series/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 12:48:20 +0700</lastBuildDate><atom:link href="/series/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro</title>
-      <link>http://example.org/2023/03/intro/</link>
+      <link>/2023/03/intro/</link>
       <pubDate>Fri, 03 Mar 2023 12:48:20 +0700</pubDate>
       
-      <guid>http://example.org/2023/03/intro/</guid>
+      <guid>/2023/03/intro/</guid>
       <description>Some quick summary text to describe the post</description>
     </item>
     
